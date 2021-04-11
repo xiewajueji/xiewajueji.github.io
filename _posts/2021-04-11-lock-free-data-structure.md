@@ -2,23 +2,14 @@
 layout: post
 title:  "Lock-Free Data Structure"
 date:   2021-04-11 14:17:00 +0800
-categories: Data Structure
+author: xiewajueji
+tags: Lock-Free Data-Structure Atomc-Operation
 ---
 
-Sample
-
-{% highlight ruby linenos %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+{% highlight c++ linenos %}
+#include <iostream>
+int main() {
+    std::cout << "Hello, World!" << std::endl;
+    return 0;
+}
 {% endhighlight %}
-
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
