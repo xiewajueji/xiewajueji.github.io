@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ## Desc
-unemployed, looking for a job in Shang Hai.
+looking for a job
 
 ## Contact
 
